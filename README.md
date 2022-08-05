@@ -9,5 +9,5 @@ Insights:
 
 
 Note: 
-1. Woodlands East and Woodlands West NPC data are na for 2011. I have estimated their respctive crime statistics using the same proportion the NPCs contributed to the total Jurong Police Division statistics reported in 2012.
+1. Woodlands East and Woodlands West NPC data were na for 2011. I have estimated their respctive crime statistics using the same proportion the NPCs contributed to the total Jurong Police Division statistics reported in 2012.
 2. The co-ordinates of NPCs obtained were obtained from https://www.onemap.gov.sg/main/v2/
