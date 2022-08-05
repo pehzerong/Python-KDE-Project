@@ -1,5 +1,5 @@
 # Python-KDE-Project
-Kernel Density Estimate of Harassment and Unlicensed Moneylending Crime Statistics in Singapore
+Kernel Density Estimate of Harassment and Unlicensed Moneylending Crime Data in Singapore
 
 This project utilises 10 years worth of publicly available Unlicensed Moneylending Cases and Harassment dataset by Neighbourhood Police Centre (NPC) obtained from https://data.gov.sg/dataset/unlicensed-moneylending-uml-and-harassment-by-npc
 
